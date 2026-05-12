@@ -4,7 +4,8 @@
 Este projeto tem como objetivo validar a hipótese de aumento na taxa de churn de uma plataforma de ERP voltada para pequenas e médias empresas, identificando padrões e comportamentos que possam apoiar a equipe de negócios na tomada de decisão.
 
 📄 [Veja a minha apresentação aqui](https://github.com/pedroisv/case-churn-eda/blob/main/CaseChurnApresentacao.pdf)
-🔗 [Acessar documentação completa](https://pedroisv-portifolio.notion.site/An-lise-de-Churn-359ff4051196808da141f9985bd1921f)
+📓 [Acessar notebook completo](https://github.com/pedroisv/case-churn/blob/main/CaseChurnEDA.ipynb)
+🔗 [Acessar documentação no Notion](https://pedroisv-portifolio.notion.site/An-lise-de-Churn-359ff4051196808da141f9985bd1921f)
 
 ## 📂 Conteúdo
 

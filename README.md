@@ -1,3 +1,4 @@
+![Análise de Churn](churn.jpg)
 # Case Churn
 
 Este projeto tem como objetivo validar a hipótese de aumento na taxa de churn de uma plataforma de ERP voltada para pequenas e médias empresas, identificando padrões e comportamentos que possam apoiar a equipe de negócios na tomada de decisão.
